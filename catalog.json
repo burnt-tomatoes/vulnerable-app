@@ -1,0 +1,9 @@
+{
+  "name": "Legacy metrics platform",
+  "description": "We've turned this off, but this used to do some nightly batch processing.",
+  "type": "Nightly process",
+  "priority": 8,
+  "meta": {
+    "github_url": "https://github.com/burnt-tomatoes/vulnerable-app",
+  }
+}
