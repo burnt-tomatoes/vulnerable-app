@@ -4,6 +4,6 @@
   "type": "Nightly process",
   "priority": 8,
   "meta": {
-    "github_url": "https://github.com/burnt-tomatoes/vulnerable-app",
+    "github_url": "https://github.com/burnt-tomatoes/vulnerable-app"
   }
 }
